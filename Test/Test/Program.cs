@@ -11,9 +11,8 @@ namespace Test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("Good Morning!");
             Console.WriteLine("How are you?");
-
+            Console.WriteLine("Have a nice day!");
 
             Console.ReadKey();
         }
